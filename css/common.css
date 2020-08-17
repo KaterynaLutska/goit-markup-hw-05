@@ -157,6 +157,7 @@ button {
   left: 150px;
   height: 35px;
   width: 24px;
+  fill: white;
 
   transform: translateY(+40px);
 }
